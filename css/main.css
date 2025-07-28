@@ -1149,16 +1149,22 @@ button:focus {
     #blog .blog-item-wrapper .author {
       border-top: 1px solid #ddd;
       padding: 18px 30px 35px 30px; }
-    #blog .blog-item-wrapper span.name a {
+    #blog .blog-item-wrapper span.time {
       color: #5e629c;
       font-size: 14px; }
-    #blog .blog-item-wrapper span.name i {
+    #blog .blog-item-wrapper span.time i {
       color: #da7399;
       margin-right: 5px; }
-    #blog .blog-item-wrapper span.date a {
+    #blog .blog-item-wrapper span.date {
       color: #5e629c;
       font-size: 14px; }
     #blog .blog-item-wrapper span.date i {
+      color: #da7399;
+      margin-right: 5px; }
+    #blog .blog-item-wrapper span.location {
+      color: #5e629c;
+      font-size: 14px; }
+    #blog .blog-item-wrapper span.location i {
       color: #da7399;
       margin-right: 5px; }
 
