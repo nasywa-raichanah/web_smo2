@@ -1452,6 +1452,9 @@ button:focus {
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 30px; }
+  #footer-content a {
+    color: #fff;
+  }
   #footer-Content ul.menu li a {
     color: #e2e2e2;
     font-size: 16px;
